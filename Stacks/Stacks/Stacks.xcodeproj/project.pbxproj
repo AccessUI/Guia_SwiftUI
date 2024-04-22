@@ -7,61 +7,61 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BE5D3CA52BD63D5600541402 /* StaksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE5D3CA42BD63D5600541402 /* StaksApp.swift */; };
-		BE5D3CA72BD63D5600541402 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE5D3CA62BD63D5600541402 /* ContentView.swift */; };
-		BE5D3CA92BD63D5800541402 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE5D3CA82BD63D5800541402 /* Assets.xcassets */; };
-		BE5D3CAC2BD63D5800541402 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE5D3CAB2BD63D5800541402 /* Preview Assets.xcassets */; };
-		BE5D3CB62BD63D5800541402 /* StaksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE5D3CB52BD63D5800541402 /* StaksTests.swift */; };
-		BE5D3CC02BD63D5800541402 /* StaksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE5D3CBF2BD63D5800541402 /* StaksUITests.swift */; };
-		BE5D3CC22BD63D5800541402 /* StaksUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE5D3CC12BD63D5800541402 /* StaksUITestsLaunchTests.swift */; };
+		BE5D3CDB2BD6487400541402 /* StacksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE5D3CDA2BD6487400541402 /* StacksApp.swift */; };
+		BE5D3CDD2BD6487400541402 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE5D3CDC2BD6487400541402 /* ContentView.swift */; };
+		BE5D3CDF2BD6487600541402 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE5D3CDE2BD6487600541402 /* Assets.xcassets */; };
+		BE5D3CE22BD6487600541402 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE5D3CE12BD6487600541402 /* Preview Assets.xcassets */; };
+		BE5D3CEC2BD6487600541402 /* StacksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE5D3CEB2BD6487600541402 /* StacksTests.swift */; };
+		BE5D3CF62BD6487700541402 /* StacksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE5D3CF52BD6487700541402 /* StacksUITests.swift */; };
+		BE5D3CF82BD6487700541402 /* StacksUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE5D3CF72BD6487700541402 /* StacksUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		BE5D3CB22BD63D5800541402 /* PBXContainerItemProxy */ = {
+		BE5D3CE82BD6487600541402 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = BE5D3C992BD63D5600541402 /* Project object */;
+			containerPortal = BE5D3CCF2BD6487400541402 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = BE5D3CA02BD63D5600541402;
-			remoteInfo = Staks;
+			remoteGlobalIDString = BE5D3CD62BD6487400541402;
+			remoteInfo = Stacks;
 		};
-		BE5D3CBC2BD63D5800541402 /* PBXContainerItemProxy */ = {
+		BE5D3CF22BD6487700541402 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = BE5D3C992BD63D5600541402 /* Project object */;
+			containerPortal = BE5D3CCF2BD6487400541402 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = BE5D3CA02BD63D5600541402;
-			remoteInfo = Staks;
+			remoteGlobalIDString = BE5D3CD62BD6487400541402;
+			remoteInfo = Stacks;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		BE5D3CA12BD63D5600541402 /* Staks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Staks.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		BE5D3CA42BD63D5600541402 /* StaksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StaksApp.swift; sourceTree = "<group>"; };
-		BE5D3CA62BD63D5600541402 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		BE5D3CA82BD63D5800541402 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		BE5D3CAB2BD63D5800541402 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		BE5D3CB12BD63D5800541402 /* StaksTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StaksTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		BE5D3CB52BD63D5800541402 /* StaksTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StaksTests.swift; sourceTree = "<group>"; };
-		BE5D3CBB2BD63D5800541402 /* StaksUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StaksUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		BE5D3CBF2BD63D5800541402 /* StaksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StaksUITests.swift; sourceTree = "<group>"; };
-		BE5D3CC12BD63D5800541402 /* StaksUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StaksUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BE5D3CD72BD6487400541402 /* Stacks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Stacks.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BE5D3CDA2BD6487400541402 /* StacksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksApp.swift; sourceTree = "<group>"; };
+		BE5D3CDC2BD6487400541402 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		BE5D3CDE2BD6487600541402 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BE5D3CE12BD6487600541402 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BE5D3CE72BD6487600541402 /* StacksTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StacksTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		BE5D3CEB2BD6487600541402 /* StacksTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksTests.swift; sourceTree = "<group>"; };
+		BE5D3CF12BD6487700541402 /* StacksUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StacksUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		BE5D3CF52BD6487700541402 /* StacksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksUITests.swift; sourceTree = "<group>"; };
+		BE5D3CF72BD6487700541402 /* StacksUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		BE5D3C9E2BD63D5600541402 /* Frameworks */ = {
+		BE5D3CD42BD6487400541402 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BE5D3CAE2BD63D5800541402 /* Frameworks */ = {
+		BE5D3CE42BD6487600541402 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BE5D3CB82BD63D5800541402 /* Frameworks */ = {
+		BE5D3CEE2BD6487600541402 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -71,142 +71,142 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		BE5D3C982BD63D5600541402 = {
+		BE5D3CCE2BD6487400541402 = {
 			isa = PBXGroup;
 			children = (
-				BE5D3CA32BD63D5600541402 /* Staks */,
-				BE5D3CB42BD63D5800541402 /* StaksTests */,
-				BE5D3CBE2BD63D5800541402 /* StaksUITests */,
-				BE5D3CA22BD63D5600541402 /* Products */,
+				BE5D3CD92BD6487400541402 /* Stacks */,
+				BE5D3CEA2BD6487600541402 /* StacksTests */,
+				BE5D3CF42BD6487700541402 /* StacksUITests */,
+				BE5D3CD82BD6487400541402 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		BE5D3CA22BD63D5600541402 /* Products */ = {
+		BE5D3CD82BD6487400541402 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BE5D3CA12BD63D5600541402 /* Staks.app */,
-				BE5D3CB12BD63D5800541402 /* StaksTests.xctest */,
-				BE5D3CBB2BD63D5800541402 /* StaksUITests.xctest */,
+				BE5D3CD72BD6487400541402 /* Stacks.app */,
+				BE5D3CE72BD6487600541402 /* StacksTests.xctest */,
+				BE5D3CF12BD6487700541402 /* StacksUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BE5D3CA32BD63D5600541402 /* Staks */ = {
+		BE5D3CD92BD6487400541402 /* Stacks */ = {
 			isa = PBXGroup;
 			children = (
-				BE5D3CA42BD63D5600541402 /* StaksApp.swift */,
-				BE5D3CA62BD63D5600541402 /* ContentView.swift */,
-				BE5D3CA82BD63D5800541402 /* Assets.xcassets */,
-				BE5D3CAA2BD63D5800541402 /* Preview Content */,
+				BE5D3CDA2BD6487400541402 /* StacksApp.swift */,
+				BE5D3CDC2BD6487400541402 /* ContentView.swift */,
+				BE5D3CDE2BD6487600541402 /* Assets.xcassets */,
+				BE5D3CE02BD6487600541402 /* Preview Content */,
 			);
-			path = Staks;
+			path = Stacks;
 			sourceTree = "<group>";
 		};
-		BE5D3CAA2BD63D5800541402 /* Preview Content */ = {
+		BE5D3CE02BD6487600541402 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				BE5D3CAB2BD63D5800541402 /* Preview Assets.xcassets */,
+				BE5D3CE12BD6487600541402 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		BE5D3CB42BD63D5800541402 /* StaksTests */ = {
+		BE5D3CEA2BD6487600541402 /* StacksTests */ = {
 			isa = PBXGroup;
 			children = (
-				BE5D3CB52BD63D5800541402 /* StaksTests.swift */,
+				BE5D3CEB2BD6487600541402 /* StacksTests.swift */,
 			);
-			path = StaksTests;
+			path = StacksTests;
 			sourceTree = "<group>";
 		};
-		BE5D3CBE2BD63D5800541402 /* StaksUITests */ = {
+		BE5D3CF42BD6487700541402 /* StacksUITests */ = {
 			isa = PBXGroup;
 			children = (
-				BE5D3CBF2BD63D5800541402 /* StaksUITests.swift */,
-				BE5D3CC12BD63D5800541402 /* StaksUITestsLaunchTests.swift */,
+				BE5D3CF52BD6487700541402 /* StacksUITests.swift */,
+				BE5D3CF72BD6487700541402 /* StacksUITestsLaunchTests.swift */,
 			);
-			path = StaksUITests;
+			path = StacksUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BE5D3CA02BD63D5600541402 /* Staks */ = {
+		BE5D3CD62BD6487400541402 /* Stacks */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BE5D3CC52BD63D5800541402 /* Build configuration list for PBXNativeTarget "Staks" */;
+			buildConfigurationList = BE5D3CFB2BD6487700541402 /* Build configuration list for PBXNativeTarget "Stacks" */;
 			buildPhases = (
-				BE5D3C9D2BD63D5600541402 /* Sources */,
-				BE5D3C9E2BD63D5600541402 /* Frameworks */,
-				BE5D3C9F2BD63D5600541402 /* Resources */,
+				BE5D3CD32BD6487400541402 /* Sources */,
+				BE5D3CD42BD6487400541402 /* Frameworks */,
+				BE5D3CD52BD6487400541402 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Staks;
-			productName = Staks;
-			productReference = BE5D3CA12BD63D5600541402 /* Staks.app */;
+			name = Stacks;
+			productName = Stacks;
+			productReference = BE5D3CD72BD6487400541402 /* Stacks.app */;
 			productType = "com.apple.product-type.application";
 		};
-		BE5D3CB02BD63D5800541402 /* StaksTests */ = {
+		BE5D3CE62BD6487600541402 /* StacksTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BE5D3CC82BD63D5800541402 /* Build configuration list for PBXNativeTarget "StaksTests" */;
+			buildConfigurationList = BE5D3CFE2BD6487700541402 /* Build configuration list for PBXNativeTarget "StacksTests" */;
 			buildPhases = (
-				BE5D3CAD2BD63D5800541402 /* Sources */,
-				BE5D3CAE2BD63D5800541402 /* Frameworks */,
-				BE5D3CAF2BD63D5800541402 /* Resources */,
+				BE5D3CE32BD6487600541402 /* Sources */,
+				BE5D3CE42BD6487600541402 /* Frameworks */,
+				BE5D3CE52BD6487600541402 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				BE5D3CB32BD63D5800541402 /* PBXTargetDependency */,
+				BE5D3CE92BD6487600541402 /* PBXTargetDependency */,
 			);
-			name = StaksTests;
-			productName = StaksTests;
-			productReference = BE5D3CB12BD63D5800541402 /* StaksTests.xctest */;
+			name = StacksTests;
+			productName = StacksTests;
+			productReference = BE5D3CE72BD6487600541402 /* StacksTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		BE5D3CBA2BD63D5800541402 /* StaksUITests */ = {
+		BE5D3CF02BD6487600541402 /* StacksUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BE5D3CCB2BD63D5800541402 /* Build configuration list for PBXNativeTarget "StaksUITests" */;
+			buildConfigurationList = BE5D3D012BD6487700541402 /* Build configuration list for PBXNativeTarget "StacksUITests" */;
 			buildPhases = (
-				BE5D3CB72BD63D5800541402 /* Sources */,
-				BE5D3CB82BD63D5800541402 /* Frameworks */,
-				BE5D3CB92BD63D5800541402 /* Resources */,
+				BE5D3CED2BD6487600541402 /* Sources */,
+				BE5D3CEE2BD6487600541402 /* Frameworks */,
+				BE5D3CEF2BD6487600541402 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				BE5D3CBD2BD63D5800541402 /* PBXTargetDependency */,
+				BE5D3CF32BD6487700541402 /* PBXTargetDependency */,
 			);
-			name = StaksUITests;
-			productName = StaksUITests;
-			productReference = BE5D3CBB2BD63D5800541402 /* StaksUITests.xctest */;
+			name = StacksUITests;
+			productName = StacksUITests;
+			productReference = BE5D3CF12BD6487700541402 /* StacksUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		BE5D3C992BD63D5600541402 /* Project object */ = {
+		BE5D3CCF2BD6487400541402 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1500;
 				LastUpgradeCheck = 1500;
 				TargetAttributes = {
-					BE5D3CA02BD63D5600541402 = {
+					BE5D3CD62BD6487400541402 = {
 						CreatedOnToolsVersion = 15.0;
 					};
-					BE5D3CB02BD63D5800541402 = {
+					BE5D3CE62BD6487600541402 = {
 						CreatedOnToolsVersion = 15.0;
-						TestTargetID = BE5D3CA02BD63D5600541402;
+						TestTargetID = BE5D3CD62BD6487400541402;
 					};
-					BE5D3CBA2BD63D5800541402 = {
+					BE5D3CF02BD6487600541402 = {
 						CreatedOnToolsVersion = 15.0;
-						TestTargetID = BE5D3CA02BD63D5600541402;
+						TestTargetID = BE5D3CD62BD6487400541402;
 					};
 				};
 			};
-			buildConfigurationList = BE5D3C9C2BD63D5600541402 /* Build configuration list for PBXProject "Staks" */;
+			buildConfigurationList = BE5D3CD22BD6487400541402 /* Build configuration list for PBXProject "Stacks" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -214,36 +214,36 @@
 				en,
 				Base,
 			);
-			mainGroup = BE5D3C982BD63D5600541402;
-			productRefGroup = BE5D3CA22BD63D5600541402 /* Products */;
+			mainGroup = BE5D3CCE2BD6487400541402;
+			productRefGroup = BE5D3CD82BD6487400541402 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BE5D3CA02BD63D5600541402 /* Staks */,
-				BE5D3CB02BD63D5800541402 /* StaksTests */,
-				BE5D3CBA2BD63D5800541402 /* StaksUITests */,
+				BE5D3CD62BD6487400541402 /* Stacks */,
+				BE5D3CE62BD6487600541402 /* StacksTests */,
+				BE5D3CF02BD6487600541402 /* StacksUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		BE5D3C9F2BD63D5600541402 /* Resources */ = {
+		BE5D3CD52BD6487400541402 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BE5D3CAC2BD63D5800541402 /* Preview Assets.xcassets in Resources */,
-				BE5D3CA92BD63D5800541402 /* Assets.xcassets in Resources */,
+				BE5D3CE22BD6487600541402 /* Preview Assets.xcassets in Resources */,
+				BE5D3CDF2BD6487600541402 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BE5D3CAF2BD63D5800541402 /* Resources */ = {
+		BE5D3CE52BD6487600541402 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BE5D3CB92BD63D5800541402 /* Resources */ = {
+		BE5D3CEF2BD6487600541402 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -253,49 +253,49 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		BE5D3C9D2BD63D5600541402 /* Sources */ = {
+		BE5D3CD32BD6487400541402 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BE5D3CA72BD63D5600541402 /* ContentView.swift in Sources */,
-				BE5D3CA52BD63D5600541402 /* StaksApp.swift in Sources */,
+				BE5D3CDD2BD6487400541402 /* ContentView.swift in Sources */,
+				BE5D3CDB2BD6487400541402 /* StacksApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BE5D3CAD2BD63D5800541402 /* Sources */ = {
+		BE5D3CE32BD6487600541402 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BE5D3CB62BD63D5800541402 /* StaksTests.swift in Sources */,
+				BE5D3CEC2BD6487600541402 /* StacksTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BE5D3CB72BD63D5800541402 /* Sources */ = {
+		BE5D3CED2BD6487600541402 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BE5D3CC02BD63D5800541402 /* StaksUITests.swift in Sources */,
-				BE5D3CC22BD63D5800541402 /* StaksUITestsLaunchTests.swift in Sources */,
+				BE5D3CF62BD6487700541402 /* StacksUITests.swift in Sources */,
+				BE5D3CF82BD6487700541402 /* StacksUITestsLaunchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		BE5D3CB32BD63D5800541402 /* PBXTargetDependency */ = {
+		BE5D3CE92BD6487600541402 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BE5D3CA02BD63D5600541402 /* Staks */;
-			targetProxy = BE5D3CB22BD63D5800541402 /* PBXContainerItemProxy */;
+			target = BE5D3CD62BD6487400541402 /* Stacks */;
+			targetProxy = BE5D3CE82BD6487600541402 /* PBXContainerItemProxy */;
 		};
-		BE5D3CBD2BD63D5800541402 /* PBXTargetDependency */ = {
+		BE5D3CF32BD6487700541402 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BE5D3CA02BD63D5600541402 /* Staks */;
-			targetProxy = BE5D3CBC2BD63D5800541402 /* PBXContainerItemProxy */;
+			target = BE5D3CD62BD6487400541402 /* Stacks */;
+			targetProxy = BE5D3CF22BD6487700541402 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		BE5D3CC32BD63D5800541402 /* Debug */ = {
+		BE5D3CF92BD6487700541402 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -358,7 +358,7 @@
 			};
 			name = Debug;
 		};
-		BE5D3CC42BD63D5800541402 /* Release */ = {
+		BE5D3CFA2BD6487700541402 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -414,14 +414,14 @@
 			};
 			name = Release;
 		};
-		BE5D3CC62BD63D5800541402 /* Debug */ = {
+		BE5D3CFC2BD6487700541402 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Staks/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Stacks/Preview Content\"";
 				DEVELOPMENT_TEAM = J5375DNRA9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -435,7 +435,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.stacks.Staks;
+				PRODUCT_BUNDLE_IDENTIFIER = com.stacks.Stacks;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -443,14 +443,14 @@
 			};
 			name = Debug;
 		};
-		BE5D3CC72BD63D5800541402 /* Release */ = {
+		BE5D3CFD2BD6487700541402 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Staks/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Stacks/Preview Content\"";
 				DEVELOPMENT_TEAM = J5375DNRA9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -464,7 +464,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.stacks.Staks;
+				PRODUCT_BUNDLE_IDENTIFIER = com.stacks.Stacks;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -472,7 +472,7 @@
 			};
 			name = Release;
 		};
-		BE5D3CC92BD63D5800541402 /* Debug */ = {
+		BE5D3CFF2BD6487700541402 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -483,16 +483,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.stacks.StaksTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.stacks.StacksTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Staks.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Staks";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Stacks.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Stacks";
 			};
 			name = Debug;
 		};
-		BE5D3CCA2BD63D5800541402 /* Release */ = {
+		BE5D3D002BD6487700541402 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -503,16 +503,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.stacks.StaksTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.stacks.StacksTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Staks.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Staks";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Stacks.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Stacks";
 			};
 			name = Release;
 		};
-		BE5D3CCC2BD63D5800541402 /* Debug */ = {
+		BE5D3D022BD6487700541402 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -521,16 +521,16 @@
 				DEVELOPMENT_TEAM = J5375DNRA9;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.stacks.StaksUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.stacks.StacksUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Staks;
+				TEST_TARGET_NAME = Stacks;
 			};
 			name = Debug;
 		};
-		BE5D3CCD2BD63D5800541402 /* Release */ = {
+		BE5D3D032BD6487700541402 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -539,55 +539,55 @@
 				DEVELOPMENT_TEAM = J5375DNRA9;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.stacks.StaksUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.stacks.StacksUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Staks;
+				TEST_TARGET_NAME = Stacks;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BE5D3C9C2BD63D5600541402 /* Build configuration list for PBXProject "Staks" */ = {
+		BE5D3CD22BD6487400541402 /* Build configuration list for PBXProject "Stacks" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BE5D3CC32BD63D5800541402 /* Debug */,
-				BE5D3CC42BD63D5800541402 /* Release */,
+				BE5D3CF92BD6487700541402 /* Debug */,
+				BE5D3CFA2BD6487700541402 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BE5D3CC52BD63D5800541402 /* Build configuration list for PBXNativeTarget "Staks" */ = {
+		BE5D3CFB2BD6487700541402 /* Build configuration list for PBXNativeTarget "Stacks" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BE5D3CC62BD63D5800541402 /* Debug */,
-				BE5D3CC72BD63D5800541402 /* Release */,
+				BE5D3CFC2BD6487700541402 /* Debug */,
+				BE5D3CFD2BD6487700541402 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BE5D3CC82BD63D5800541402 /* Build configuration list for PBXNativeTarget "StaksTests" */ = {
+		BE5D3CFE2BD6487700541402 /* Build configuration list for PBXNativeTarget "StacksTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BE5D3CC92BD63D5800541402 /* Debug */,
-				BE5D3CCA2BD63D5800541402 /* Release */,
+				BE5D3CFF2BD6487700541402 /* Debug */,
+				BE5D3D002BD6487700541402 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BE5D3CCB2BD63D5800541402 /* Build configuration list for PBXNativeTarget "StaksUITests" */ = {
+		BE5D3D012BD6487700541402 /* Build configuration list for PBXNativeTarget "StacksUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BE5D3CCC2BD63D5800541402 /* Debug */,
-				BE5D3CCD2BD63D5800541402 /* Release */,
+				BE5D3D022BD6487700541402 /* Debug */,
+				BE5D3D032BD6487700541402 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = BE5D3C992BD63D5600541402 /* Project object */;
+	rootObject = BE5D3CCF2BD6487400541402 /* Project object */;
 }

@@ -1,13 +1,13 @@
 //
-//  StaksUITestsLaunchTests.swift
-//  StaksUITests
+//  StacksUITestsLaunchTests.swift
+//  StacksUITests
 //
 //  Created by iDesign on 22/04/2024.
 //
 
 import XCTest
 
-final class StaksUITestsLaunchTests: XCTestCase {
+final class StacksUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
